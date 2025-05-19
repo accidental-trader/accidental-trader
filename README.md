@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @accidental-trader
-- 👀 Freedom is the best asset you will ever own
-- 🌱 I’m interested in Algo trading
+- 👀 Freedom is the best asset you will ever own in your lifetime
 - 💞️ I’m looking for windofchange
 
 
